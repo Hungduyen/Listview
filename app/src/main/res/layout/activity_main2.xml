@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="347dp"
+        android:layout_height="266dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginBottom="424dp"
+        android:text="Mô tả:Bánh mì patê hay nhiều hàng còn viết là bánh mì paté là bánh mì nướng có kẹp một hay vài lát patê (thường được làm từ gan lợn/heo) kèm theo các loại rau như rau mùi, dưa chuột, củ cải, cà rốt, xúc xích, bơ, ruốc (chà bông), những người ăn được cay thường cho thêm ớt. Món này thường được sử dụng làm bữa sáng do sự tiện dụng cho lứa tuổi học sinh, sinh viên, công nhân nhà nước hay là nhân viên văn phòng thường có bữa sáng muộn hoặc là bữa ăn khuya."
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="111dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="-296dp"
+        android:layout_marginEnd="154dp"
+        android:layout_marginBottom="311dp"
+        android:text="Trở về" />
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="347dp"
+        android:layout_height="266dp"
+        android:text="TextView"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="111dp"
+        tools:text="Mô tả:Cháo cá lóc là món ăn tốt cho bé vì thịt cá lóc ít mỡ, giàu chất khoáng và vitamin. Ngoài ra, Cháo cá lóc là món được các bác sĩ dinh dưỡng khuyên dùng cả cho người lớn vì tốt cho phụ nữ ít sữa, bồi bổ hiệu quả cho người mới ốm dậy và có tác dụng chống oxy hóa.
+
+Theo Đông y, cá lóc có vị ngọt, tính bình, không độc. Có tác dụng khử thấp, trừ phong, tiêu thũng, thông tiểu, tư âm, sinh tân dịch, bổ gân xương tạng phủ, chữa ít sữa, bổ khí huyết. Dùng bồi bổ sau ốm dậy vì dễ hấp thu, tốt cho những người mắc các chứng phù thũng, liên quan tới thận.
+
+Trong 100g thịt cá lóc có 18,2% protid, 2,7% lipid, Ca 90mg%, P 240mg%, Fe 2,2mg% và một số chất khác. Cứ 100g thịt cá cung cấp 100 calo. Cháo Cá Lóc Cây Thị là một trong các món ăn được khách hàng lựa chọn nhiều nhất.
+
+Cháo cá lóc Cây Thị ăn kèm với cà rốt, khoai tây và bí đỏ giúp bé ngon miệng và hào hứng với bữa ăn hơn."
+        />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trở về"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

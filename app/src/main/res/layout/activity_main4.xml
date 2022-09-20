@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="347dp"
+        android:layout_height="266dp"
+        android:text="TextView"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="111dp"
+        tools:text="Mô tả:Bạn Đã thưởng thức quán phở ngon nức tiếng Sài Thành chưa? Có hương vị truyền thống với nhiều năm kinh nghiệm trong ngành ẩm thực mang đến hương vị phở đậm đà đúng điệu. Hãy ghé quán Phở Việt Nam tại địa chỉ 66 Trần Quốc Toản, Phường 8, Quận 3 nhé!"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trở về"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
